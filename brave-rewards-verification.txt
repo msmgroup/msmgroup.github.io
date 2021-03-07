@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: msmgroup.us
-Token: e8f9a5d3565bba1943749acb5905c69e9b97549381547100a8e51658896c3781
